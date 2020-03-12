@@ -1,5 +1,7 @@
 This is an ASP.NET Core Web API application. It uses a MySQL database and employs a Repository pattern, generics, LINQ, and Entity Framework Core. The architecture uses multiple projects and services to demonstrate good practices, and to make the code more readable and maintainable.
+
 It is deployed on Heroku as a Docker container at https://brokerage.herokuapp.com/swagger
+
 SUMMARY
 1. Created database schemas, tables and relations and populated the tables with data using MySQL Workbench.
 2. Created ASP.NET Core application. Used extension methods to configure CORS, IIS and other services.
